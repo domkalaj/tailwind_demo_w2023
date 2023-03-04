@@ -1,0 +1,22 @@
+{
+  "name": "tailwinddemo",
+  "version": "1.0.0",
+  "description": "tailwindcss for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DKALAJ1239/tailwind_demo_w2023.git"
+  },
+  "author": "dominick kalaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DKALAJ1239/tailwind_demo_w2023/issues"
+  },
+  "homepage": "https://github.com/DKALAJ1239/tailwind_demo_w2023#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
