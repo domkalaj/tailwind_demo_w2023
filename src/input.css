@@ -1,3 +1,19 @@
+/* This file consists of the tailwind css directives as well as any custom defined tailwind css class name (as defined by  the developers) */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Define customn tailwindcss classnames */
+
+.btn {
+  @apply font-bold py-2 px-4 rounded;
+}
+
+.btn-blue {
+  @apply bg-blue-500 text-white;
+}
+
+.btn-blue:hover {
+  @apply bg-blue-200;
+}
